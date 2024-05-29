@@ -29,7 +29,7 @@ namespace MemorizarPalavraApi.Controllers
             return CreatedAtAction(nameof(ObterPorId), new { id = palavra.Id }, palavra);
         }
 
-        [HttpGet("obterPorId/{id}")]
+        [HttpGet("ObterPorId/{id}")]
         public IActionResult ObterPorId(int id)
         {
             var palavra = _context.Palavras.Find(id);
@@ -40,7 +40,7 @@ namespace MemorizarPalavraApi.Controllers
             return Ok(palavra);
         }
 
-        [HttpGet("obterPalavraEstrangeira/{palavraEstrangeira}")]
+        [HttpGet("ObterPalavraEstrangeira/{palavraEstrangeira}")]
         public IActionResult ObterPorPalavraNaLinguaEstrangeira(string palavraEstrangeira)
         {
             var palavras = _context.Palavras.Where(x => x.PalavraLinguaEstrangeira.Contains(palavraEstrangeira)) ;

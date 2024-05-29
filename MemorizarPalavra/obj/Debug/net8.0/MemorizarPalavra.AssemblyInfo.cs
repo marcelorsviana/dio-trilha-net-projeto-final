@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemorizarPalavra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+264cd9fad7e6d490ca70d3c71c0b8d1c80de84c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemorizarPalavra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemorizarPalavra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -134,3 +134,4 @@ C:\ProjetosDio\trilha-net-projeto-final\MemorizarPalavra\MemorizarPalavraApi\obj
 C:\ProjetosDio\trilha-net-projeto-final\MemorizarPalavra\MemorizarPalavraApi\obj\Debug\net8.0\MemorizarPalavraApi.pdb
 C:\ProjetosDio\trilha-net-projeto-final\MemorizarPalavra\MemorizarPalavraApi\obj\Debug\net8.0\MemorizarPalavraApi.genruntimeconfig.cache
 C:\ProjetosDio\trilha-net-projeto-final\MemorizarPalavra\MemorizarPalavraApi\obj\Debug\net8.0\ref\MemorizarPalavraApi.dll
+C:\ProjetosDio\trilha-net-projeto-final\MemorizarPalavra\MemorizarPalavraApi\obj\Debug\net8.0\MemorizarPalavraApi.sourcelink.json
